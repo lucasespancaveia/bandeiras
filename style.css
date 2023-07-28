@@ -1,0 +1,60 @@
+body {
+    background-color: gray;
+    margin: 0;
+
+}
+
+
+.flag {
+    width: 600px;
+    margin: 40px;
+    background-color: white;
+
+}
+
+#one,
+#two,
+#three {
+    height: 150px;
+    background-color: blue;
+}
+
+#two {
+    background-color: red;
+}
+
+#three {
+    background-color: purple;
+}
+
+#um,
+#dois,
+#tres {
+    height: 150px;
+    background-color: aquamarine;
+
+}
+
+#dois {
+    background-color: blueviolet;
+}
+
+#tres {
+    background-color: darkblue;
+}
+
+#a,
+#b,
+#c {
+    height: 150px;
+    background-color: white;
+}
+
+#b {
+        background: red;
+        border-radius: 50%;
+        width: 150px;
+        height: 150px;
+        margin-left: 228px;
+    
+}
